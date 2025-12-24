@@ -1,4 +1,4 @@
-<img width="2534" height="1471" alt="image" src="https://github.com/user-attachments/assets/f810b907-0463-49af-ac62-f24a3b5341a0" /># 📊 Marketing Campaign & Customer Insights Dashboard
+# 📊 Marketing Campaign & Customer Insights Dashboard
 
 ## 📌 Project Overview
 This project focuses on analyzing customer and marketing data to understand **spending behavior, customer segmentation, and demographic patterns**.  
@@ -94,9 +94,7 @@ These KPIs provide a high-level overview of customer and revenue performance.
 
 ## 🖼 Dashboard Preview
 Add a screenshot of the dashboard here:
-
-
-
+<img width="2534" height="1471" alt="image" src="https://github.com/user-attachments/assets/f810b907-0463-49af-ac62-f24a3b5341a0" />
 ---
 
 ## 🚀 How to Use
