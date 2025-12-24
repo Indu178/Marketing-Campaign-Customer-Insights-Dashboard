@@ -1,5 +1,8 @@
 # 📊 Marketing Campaign & Customer Insights Dashboard
 
+> 🔗 **Connect with me on LinkedIn:** [Arvind Sundaram S](https://www.linkedin.com/in/arvindsundaram-s-3b0153243/)  
+> If you need access to the dashboard dataset or want to discuss this project, kindly follow and add a short note while connecting.
+
 ## 📌 Project Overview
 This project focuses on analyzing customer and marketing data to understand **spending behavior, customer segmentation, and demographic patterns**.  
 Using **Power BI**, the project delivers an **interactive dashboard** that helps businesses make **data-driven marketing decisions**.
